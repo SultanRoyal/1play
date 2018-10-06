@@ -1,2 +1,2 @@
-# MuSiic
-Bot MuSiic by L kahrba.
+# 1play
+Bot Music By Alashaq
